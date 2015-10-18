@@ -38,5 +38,5 @@ $(document).ready(function() {
 // 	console.log(i);
 // }
 
-// was working fine till lines 25-33...?????
+
 
